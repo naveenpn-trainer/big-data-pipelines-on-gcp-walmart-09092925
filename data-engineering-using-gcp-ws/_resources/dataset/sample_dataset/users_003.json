@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "age": 29,
+    "gender": "M",
+    "designation": "technician",
+    "salary": 85711
+},
+{
+    "id": 2,
+    "age": 30,
+    "gender": "M",
+    "designation": "Teacher",
+    "salary": 10000
+}
