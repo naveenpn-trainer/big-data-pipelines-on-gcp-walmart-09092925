@@ -1,1 +1,11 @@
+# Apache Spark
 pyspark==3.2.4
+
+# Google Big Query
+google-cloud-bigquery==3.25.0
+
+
+# pub/Sub
+google-cloud-pubsub
+
+apache-airflow==2.11.0
